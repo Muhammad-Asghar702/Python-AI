@@ -1,0 +1,120 @@
+[
+    {
+        "question": [
+            ["What", "WP"],
+            ["is", "VBZ"],
+            ["the", "DT"],
+            ["capital", "NN"],
+            ["of", "IN"],
+            ["France", "NNP"],
+            ["?", "."]
+        ],
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "question": [
+            ["Who", "WP"],
+            ["wrote", "VBD"],
+            ["'To", "TO"],
+            ["Kill", "VB"],
+            ["a", "DT"],
+            ["Mockingbird'", "NNP"],
+            ["?", "."]
+        ],
+        "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+        "question": [
+            ["What", "WP"],
+            ["is", "VBZ"],
+            ["the", "DT"],
+            ["largest", "JJS"],
+            ["planet", "NN"],
+            ["in", "IN"],
+            ["our", "PRP$"],
+            ["solar", "JJ"],
+            ["system", "NN"],
+            ["?", "."]
+        ],
+        "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "question": [
+            ["What", "WP"],
+            ["is", "VBZ"],
+            ["the", "DT"],
+            ["boiling", "VBG"],
+            ["point", "NN"],
+            ["of", "IN"],
+            ["water", "NN"],
+            ["?", "."]
+        ],
+        "answer": "The boiling point of water is 100 degrees Celsius."
+    },
+    {
+        "question": [
+            ["Who", "WP"],
+            ["was", "VBD"],
+            ["the", "DT"],
+            ["first", "JJ"],
+            ["President", "NNP"],
+            ["of", "IN"],
+            ["the", "DT"],
+            ["United", "NNP"],
+            ["States", "NNPS"],
+            ["?", "."]
+        ],
+        "answer": "The first President of the United States was George Washington."
+    },
+
+    
+    {
+        "question":[
+            ["who", "WP"],
+            ["is", "VBD"],
+            ["your","DT"],
+            ["owner","JJ"]
+        ],
+        "answer":"My owner is a student of computer science has name is (Muhammad Asghar)."
+    },
+
+    {
+        "question":[
+            ["who", "WP"],
+            ["make", "VBD"],
+            ["you","DT"]
+            
+        ],
+        "answer":"I'm sorry, I don't understand the question."
+    },
+
+    {
+        "question":[
+            ["who", "WP"],
+            ["created", "VBD"],
+            ["you","DT"]
+            
+        ],
+        "answer":"My owner is a student of computer science has name is (Muhammad Asghar)."
+    },
+
+    {
+        "question":[
+            ["code", "VBD"],
+            ["coding", "VBD"],
+            ["programming","DT"]
+        ],
+        "answer":"I can't do coding,programming."
+    },
+
+    {
+        "question":[
+            ["who", "VB"],
+            ["is","DT"],
+            ["make", "VBD"],
+            ["you","VBG"]
+        ],
+
+        "answer":"My owner is a student of computer science has name is (Muhammad Asghar)."
+    }
+]
