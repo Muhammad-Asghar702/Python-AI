@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "The boiling point of water is 100 degrees Celsius."
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "The first President of the United States was George Washington."
+    }
+]
